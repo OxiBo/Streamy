@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "It is a very good stream",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "I created it, show have user ID LOGGED IN",
+      "id": 14
+    },
+    {
+      "title": "Check out programmatic navigation",
+      "description": "prog navigation using browser history file",
+      "userId": "115077861390347470205",
+      "id": 16
+    },
+    {
+      "title": "Reusable component StreamForm",
+      "description": "The component is really reusable and I am making a PATCH request",
+      "userId": "115077861390347470205",
+      "id": 17
+    },
+    {
+      "title": "Editing a stream",
+      "description": "This stream is about refactoring",
+      "id": 18
+    }
+  ]
+}
